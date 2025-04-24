@@ -1,6 +1,7 @@
 # 애니켐 클론 퍼블리싱 스터디 프로젝트
 
-- http://www.any-chem.com/
+- 원사이트 http://www.any-chem.com/
+- 배포주소 https://clone-anychem-mauve.vercel.app/
 
 ## 메인사이트
 
